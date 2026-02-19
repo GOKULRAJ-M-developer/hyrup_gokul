@@ -6,6 +6,7 @@ const router = express.Router();
 
 router.post("/register", registerStudent);
 router.post("/login", loginStudent);
-
+router.post("/refresh", refreshAccessToken);
+router.post("/logout", logoutStudent);
 
 export default router;

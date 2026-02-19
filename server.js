@@ -23,7 +23,8 @@ app.use("/api/v1/login", authRoutes);
 app.use("/api/v1/protected", verification, (req, res) => {
   res.json({ message: "This is a protected route", student: req.student });
 });
-
+app.use("/api/v1/refresh", authRoutes);
+app.use("/api/v1/logout", authRoutes);
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {

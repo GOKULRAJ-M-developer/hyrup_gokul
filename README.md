@@ -698,12 +698,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details (create if needed)
 
 ## 📞 Support & Contact
 
-- **Issues:** [Report on GitHub](https://github.com/YOUR_USERNAME/hyrup/issues)
-- **Email:** your.email@example.com
+- **Issues:** [Report on GitHub](https://github.com/GOKULRAJ-M-developer/hyrup/issues)
+- **Email:** kannagokul827@gmail.com
 - **Documentation:** See [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ---
 
 **Made with ❤️ for student management. Happy coding! 🚀**
-#   h y r u p _ g o k u l  
+#   h y r u p _ g o k u l 
+ 
  
